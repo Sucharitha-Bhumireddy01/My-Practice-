@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\bin\Debug\MedicalBotwithfieldsandmethods.exe.config
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\bin\Debug\MedicalBotwithfieldsandmethods.exe
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\bin\Debug\MedicalBotwithfieldsandmethods.pdb
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\obj\Debug\MedicalBot.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\obj\Debug\MedicalBot.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\obj\Debug\MedicalBotwithfieldsandmethods.exe
+C:\Users\sbhumireddy2\source\repos\MedicalBotwithfieldsandmethods\MedicalBotwithfieldsandmethods\obj\Debug\MedicalBotwithfieldsandmethods.pdb
