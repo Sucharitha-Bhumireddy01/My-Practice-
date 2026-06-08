@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\bin\Debug\changeforaDollar.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\bin\Debug\changeforaDollar.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\bin\Debug\changeforaDollar.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\bin\Debug\changeforaDollar.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.Form1.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\changeforaDollar\obj\Debug\changeforaDollar.pdb
