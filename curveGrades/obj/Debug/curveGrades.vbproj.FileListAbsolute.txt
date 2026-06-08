@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\bin\Debug\curveGrades.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\bin\Debug\curveGrades.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\bin\Debug\curveGrades.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\bin\Debug\curveGrades.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.frmCurveGrades.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\curveGrades\obj\Debug\curveGrades.pdb
