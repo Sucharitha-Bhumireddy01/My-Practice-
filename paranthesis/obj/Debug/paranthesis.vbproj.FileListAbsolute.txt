@@ -1,0 +1,11 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\bin\Debug\paranthesis.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\bin\Debug\paranthesis.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\bin\Debug\paranthesis.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\bin\Debug\paranthesis.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.Form1.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\paranthesis\obj\Debug\paranthesis.pdb
