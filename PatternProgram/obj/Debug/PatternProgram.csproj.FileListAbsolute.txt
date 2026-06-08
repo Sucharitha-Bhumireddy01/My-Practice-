@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\PatternProgram\bin\Debug\PatternProgram.exe.config
+C:\Users\sbhumireddy2\source\repos\PatternProgram\bin\Debug\PatternProgram.exe
+C:\Users\sbhumireddy2\source\repos\PatternProgram\bin\Debug\PatternProgram.pdb
+C:\Users\sbhumireddy2\source\repos\PatternProgram\obj\Debug\PatternProgram.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\PatternProgram\obj\Debug\PatternProgram.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\PatternProgram\obj\Debug\PatternProgram.exe
+C:\Users\sbhumireddy2\source\repos\PatternProgram\obj\Debug\PatternProgram.pdb
