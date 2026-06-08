@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\bin\Debug\collegeAdmissions.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\bin\Debug\collegeAdmissions.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\bin\Debug\collegeAdmissions.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\bin\Debug\collegeAdmissions.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.frmCollegeAdmissions.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\collegeAdmissions\obj\Debug\collegeAdmissions.pdb
