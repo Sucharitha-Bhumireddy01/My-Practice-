@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\bin\Debug\telephoneDirectories.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\bin\Debug\telephoneDirectories.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\bin\Debug\telephoneDirectories.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\bin\Debug\telephoneDirectories.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.frmTelephoneDirectories.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\telephoneDirectories\obj\Debug\telephoneDirectories.pdb
