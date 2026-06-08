@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\bin\Debug\baseBall.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\bin\Debug\baseBall.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\bin\Debug\baseBall.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\bin\Debug\baseBall.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.frmBaseball.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\baseBall\obj\Debug\baseBall.pdb
