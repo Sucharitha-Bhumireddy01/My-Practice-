@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\sbhumireddy2\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
