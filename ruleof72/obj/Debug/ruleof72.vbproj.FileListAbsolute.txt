@@ -1,0 +1,11 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.frmRule72.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\bin\Debug\ruleof72.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\bin\Debug\ruleof72.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\bin\Debug\ruleof72.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\bin\Debug\ruleof72.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\ruleof72\obj\Debug\ruleof72.pdb
