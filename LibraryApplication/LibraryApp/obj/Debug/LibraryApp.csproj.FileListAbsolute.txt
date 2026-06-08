@@ -1,0 +1,10 @@
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\bin\Debug\ClassLibrary1.dll
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\sbhumireddy2\source\repos\LibraryApplication\LibraryApp\obj\Debug\LibraryApp.pdb
