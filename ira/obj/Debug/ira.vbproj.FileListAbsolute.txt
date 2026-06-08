@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\bin\Debug\ira.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\bin\Debug\ira.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\bin\Debug\ira.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\bin\Debug\ira.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.frmIRA.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\ira\obj\Debug\ira.pdb
