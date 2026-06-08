@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\bin\Debug\restaurantMenu.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\bin\Debug\restaurantMenu.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\bin\Debug\restaurantMenu.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\bin\Debug\restaurantMenu.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.frmRestaurantMenu.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\restaurantMenu\obj\Debug\restaurantMenu.pdb
