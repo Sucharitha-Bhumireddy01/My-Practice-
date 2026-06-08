@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.frmProverbs.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\bin\Debug\proverbs.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\bin\Debug\proverbs.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\bin\Debug\proverbs.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\bin\Debug\proverbs.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\proverbs\obj\Debug\proverbs.pdb
