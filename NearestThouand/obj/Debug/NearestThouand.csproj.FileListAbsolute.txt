@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\NearestThouand\bin\Debug\NearestThouand.exe.config
+C:\Users\sbhumireddy2\source\repos\NearestThouand\bin\Debug\NearestThouand.exe
+C:\Users\sbhumireddy2\source\repos\NearestThouand\bin\Debug\NearestThouand.pdb
+C:\Users\sbhumireddy2\source\repos\NearestThouand\obj\Debug\NearestThouand.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\NearestThouand\obj\Debug\NearestThouand.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\NearestThouand\obj\Debug\NearestThouand.exe
+C:\Users\sbhumireddy2\source\repos\NearestThouand\obj\Debug\NearestThouand.pdb
