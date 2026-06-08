@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\bin\Debug\bachelorDegrees.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\bin\Debug\bachelorDegrees.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\bin\Debug\bachelorDegrees.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\bin\Debug\bachelorDegrees.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.frmBachelorDegrees.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\bachelorDegrees\obj\Debug\bachelorDegrees.pdb
