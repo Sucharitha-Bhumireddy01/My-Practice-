@@ -1,0 +1,10 @@
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\bin\Debug\EmployeeProject.exe
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\bin\Debug\EmployeeProject.pdb
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\bin\Debug\ClassLibrary1.dll
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\bin\Debug\ClassLibrary1.pdb
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\obj\Debug\EmployeeProject.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\obj\Debug\EmployeeProject.csproj.CopyComplete
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\obj\Debug\EmployeeProject.exe
+C:\Users\sbhumireddy2\source\repos\Employee\EmployeeProject\obj\Debug\EmployeeProject.pdb
