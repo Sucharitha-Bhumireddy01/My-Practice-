@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\bin\Debug\furnitureOrder.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\bin\Debug\furnitureOrder.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\bin\Debug\furnitureOrder.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\bin\Debug\furnitureOrder.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.frmFurnitureOrder.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\furnitureOrder\obj\Debug\furnitureOrder.pdb
