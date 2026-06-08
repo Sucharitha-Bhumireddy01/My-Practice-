@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\prime\bin\Debug\prime.exe.config
+C:\Users\sbhumireddy2\source\repos\prime\bin\Debug\prime.exe
+C:\Users\sbhumireddy2\source\repos\prime\bin\Debug\prime.pdb
+C:\Users\sbhumireddy2\source\repos\prime\obj\Debug\prime.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\prime\obj\Debug\prime.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\prime\obj\Debug\prime.exe
+C:\Users\sbhumireddy2\source\repos\prime\obj\Debug\prime.pdb
