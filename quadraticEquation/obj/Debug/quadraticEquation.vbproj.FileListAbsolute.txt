@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\bin\Debug\quadraticEquation.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\bin\Debug\quadraticEquation.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\bin\Debug\quadraticEquation.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\bin\Debug\quadraticEquation.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.frmQuadraticEquation.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\quadraticEquation\obj\Debug\quadraticEquation.pdb
