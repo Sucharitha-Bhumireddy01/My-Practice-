@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\bin\Debug\SensitivedataMasking.exe.config
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\bin\Debug\SensitivedataMasking.exe
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\bin\Debug\SensitivedataMasking.pdb
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\obj\Debug\SensitivedataMasking.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\obj\Debug\SensitivedataMasking.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\obj\Debug\SensitivedataMasking.exe
+C:\Users\sbhumireddy2\source\repos\SensitivedataMasking\SensitivedataMasking\obj\Debug\SensitivedataMasking.pdb
