@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\bin\Debug\CategoryofHeight.exe.config
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\bin\Debug\CategoryofHeight.exe
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\bin\Debug\CategoryofHeight.pdb
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\obj\Debug\CategoryofHeight.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\obj\Debug\CategoryofHeight.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\obj\Debug\CategoryofHeight.exe
+C:\Users\sbhumireddy2\source\repos\CategoryofHeight\obj\Debug\CategoryofHeight.pdb
