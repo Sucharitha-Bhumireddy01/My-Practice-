@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\bin\Debug\ConvertSeconds.exe.config
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\bin\Debug\ConvertSeconds.exe
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\bin\Debug\ConvertSeconds.pdb
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\obj\Debug\ConvertSeconds.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\obj\Debug\ConvertSeconds.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\obj\Debug\ConvertSeconds.exe
+C:\Users\sbhumireddy2\source\repos\ConvertSeconds\obj\Debug\ConvertSeconds.pdb
