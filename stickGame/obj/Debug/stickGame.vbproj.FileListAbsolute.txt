@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\bin\Debug\stickGame.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\bin\Debug\stickGame.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\bin\Debug\stickGame.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\bin\Debug\stickGame.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.frmStickGame.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\stickGame\obj\Debug\stickGame.pdb
