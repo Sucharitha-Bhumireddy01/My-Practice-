@@ -1,0 +1,13 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\bin\Debug\Session7-03-InventoryControl.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\bin\Debug\Session7-03-InventoryControl.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\bin\Debug\Session7-03-InventoryControl.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\bin\Debug\Session7-03-InventoryControl.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7_03_InventoryControl.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7-03-InventoryControl.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7_03_InventoryControl.frmBooks.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-03-InventoryControl\obj\Debug\Session7_03_InventoryControl.frmDetails.resources

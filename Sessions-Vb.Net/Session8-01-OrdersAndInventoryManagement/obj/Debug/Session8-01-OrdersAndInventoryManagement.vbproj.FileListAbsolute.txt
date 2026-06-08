@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\bin\Debug\Session8-01-OrdersAndInventoryManagement.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\bin\Debug\Session8-01-OrdersAndInventoryManagement.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\bin\Debug\Session8-01-OrdersAndInventoryManagement.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\bin\Debug\Session8-01-OrdersAndInventoryManagement.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8_01_OrdersAndInventoryManagement.frmInventoryManagement.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8_01_OrdersAndInventoryManagement.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-01-OrdersAndInventoryManagement\obj\Debug\Session8-01-OrdersAndInventoryManagement.pdb

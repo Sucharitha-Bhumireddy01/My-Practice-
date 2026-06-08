@@ -1,0 +1,10 @@
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\bin\Debug\StoredProcedureUnpacked.dacpac
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\bin\Debug\StoredProcedureUnpacked.dll
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\bin\Debug\StoredProcedureUnpacked.pdb
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\StoredProcedureUnpacked.sqlproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\Model.xml
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\refactor.xml
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\postdeploy.sql
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\predeploy.sql
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\StoredProcedureUnpacked.dll
+C:\Users\sbhumireddy2\source\repos\StoredProcedureUnpacked\StoredProcedureUnpacked\obj\Debug\StoredProcedureUnpacked.pdb

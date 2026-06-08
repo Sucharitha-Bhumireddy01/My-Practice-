@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Session8-02-GradeBook
+</name>
+</assembly>
+<members>
+<member name="T:Session8_02_GradeBook.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Session8_02_GradeBook.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Session8_02_GradeBook.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.GradesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.GradesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.GradesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSetTableAdapters.GradesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Session8_02_GradeBook.GradebookDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Session8_02_GradeBook.GradebookDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Session8_02_GradeBook.GradebookDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.UpdateAll(Session8_02_GradeBook.GradebookDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Session8_02_GradeBook.GradebookDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

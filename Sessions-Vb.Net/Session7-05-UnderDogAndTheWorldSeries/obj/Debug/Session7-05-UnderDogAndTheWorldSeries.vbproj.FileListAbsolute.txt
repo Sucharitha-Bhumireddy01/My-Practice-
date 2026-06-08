@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\bin\Debug\Session7-05-UnderDogAndTheWorldSeries.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\bin\Debug\Session7-05-UnderDogAndTheWorldSeries.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\bin\Debug\Session7-05-UnderDogAndTheWorldSeries.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\bin\Debug\Session7-05-UnderDogAndTheWorldSeries.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7_05_UnderDogAndTheWorldSeries.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7-05-UnderDogAndTheWorldSeries.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session7-05-UnderDogAndTheWorldSeries\obj\Debug\Session7_05_UnderDogAndTheWorldSeries.frmUnderdogWorldSeries.resources

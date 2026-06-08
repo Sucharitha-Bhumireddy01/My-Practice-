@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\bin\Debug\Session9-02-BlackJack.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\bin\Debug\Session9-02-BlackJack.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\bin\Debug\Session9-02-BlackJack.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\bin\Debug\Session9-02-BlackJack.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9_02_BlackJack.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9-02-BlackJack.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session9-02-BlackJack\obj\Debug\Session9_02_BlackJack.frmBalckJack.resources

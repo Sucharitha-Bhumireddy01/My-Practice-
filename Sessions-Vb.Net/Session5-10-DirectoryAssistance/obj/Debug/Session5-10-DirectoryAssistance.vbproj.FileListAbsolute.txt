@@ -1,0 +1,11 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\bin\Debug\Session5-10-DirectoryAssistance.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\bin\Debug\Session5-10-DirectoryAssistance.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\bin\Debug\Session5-10-DirectoryAssistance.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\bin\Debug\Session5-10-DirectoryAssistance.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5_10_DirectoryAssistance.frmDirectoryAssistance.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5_10_DirectoryAssistance.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5-10-DirectoryAssistance.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5-10-DirectoryAssistance.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5-10-DirectoryAssistance.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5-10-DirectoryAssistance.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-10-DirectoryAssistance\obj\Debug\Session5-10-DirectoryAssistance.pdb

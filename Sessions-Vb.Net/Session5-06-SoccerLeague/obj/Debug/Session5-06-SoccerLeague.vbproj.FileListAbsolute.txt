@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\bin\Debug\Session5-06-SoccerLeague.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\bin\Debug\Session5-06-SoccerLeague.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\bin\Debug\Session5-06-SoccerLeague.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\bin\Debug\Session5-06-SoccerLeague.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5_06_SoccerLeague.frmSoccerLeague.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5_06_SoccerLeague.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-06-SoccerLeague\obj\Debug\Session5-06-SoccerLeague.pdb

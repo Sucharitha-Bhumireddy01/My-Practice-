@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\bin\Debug\Session5-07-Poker.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\bin\Debug\Session5-07-Poker.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\bin\Debug\Session5-07-Poker.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\bin\Debug\Session5-07-Poker.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5_07_Poker.frmPoker.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5_07_Poker.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session5-07-Poker\obj\Debug\Session5-07-Poker.pdb

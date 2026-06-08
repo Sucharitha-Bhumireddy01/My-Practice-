@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\bin\Debug\Session8-02-GradeBook.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\bin\Debug\Session8-02-GradeBook.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\bin\Debug\Session8-02-GradeBook.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\bin\Debug\Session8-02-GradeBook.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8_02_GradeBook.frmGradeBook.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8_02_GradeBook.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session8-02-GradeBook\obj\Debug\Session8-02-GradeBook.pdb

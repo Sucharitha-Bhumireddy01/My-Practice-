@@ -1,0 +1,113 @@
+﻿using System;
+using SucharithaBank.Entities.Contracts;
+using SucharithaBank.Exceptions;
+
+namespace SucharithaBank.Entities
+{
+   /// <summary>
+   /// Represents customer of the bank
+   /// </summary>   
+    public class Customer:ICustomer,ICloneable
+    {
+        #region Private fields
+        private Guid _customerID;
+        private long _customerCode;
+        private string _customerName;
+        private string _address;
+        private string _landmark;
+        private string _city;
+        private string _country;
+        private string _mobile;
+        #endregion
+        #region Public Properties
+        /// <summary>
+        /// Guid of Customer for Unique identification
+        /// </summary>
+        public Guid CustomerID { get => _customerID; set => _customerID = value; }
+       /// <summary>
+       /// Auto-generated code number of the customer
+       /// </summary>
+        public long CustomerCode 
+        {
+            get => _customerCode;
+            set
+            {
+                //customer code should be postive
+                if(value>0)
+                {
+                    _customerCode = value;
+                }
+                else
+                {
+                    throw new CustomerException("Customer Code should be positive");
+                }
+                
+            }
+        }
+        /// <summary>
+        /// Name of the customer
+        /// </summary>
+        public string CustomerName 
+        { 
+            get => _customerName;
+            set
+            {
+                //name should be lesss than 40 charecters and should not be null or empty
+                if (value.Length <= 40 && string.IsNullOrEmpty(value)==false)
+                {
+                    _customerName = value;
+                }
+                else
+                {
+                    throw new CustomerException("Customer Name Should not be null and should be less than 40 chrecters long");
+                }
+            }
+        }
+        /// <summary>
+        /// Address of the customer
+        /// </summary>
+        public string Address { get => _address; set => _address = value; }
+        /// <summary>
+        /// Landmark of the customer's address
+        /// </summary>
+        public string Landmark { get => _landmark; set => _landmark = value; }
+        /// <summary>
+        /// City of the customer
+        /// </summary>
+        public string City { get => _city; set => _city = value; }
+        /// <summary>
+        /// Country of the Customer
+        /// </summary>
+        public string Country { get => _country; set => _country = value; }
+        /// <summary>
+        /// 10-digit mobile number of the Customer
+        /// </summary>
+        public string Mobile 
+        { 
+            get => _mobile;
+            set
+            {
+                //mobile number should be of 10-digits
+                if(value.Length==10)
+                {
+                    _mobile = value;
+                }
+                else
+                {
+                    throw new CustomerException("Mobile number should be a 10- digits number");
+                }
+                
+            }
+        }
+
+        #endregion
+
+
+        #region Methods
+        public object Clone()
+        {
+            return new Customer() { CustomerID = this.CustomerID, CustomerCode = this.CustomerCode, CustomerName = this.CustomerName, Address = this.Address, Landmark = this.Landmark, City = this.City, Country = this.Country, Mobile = this.Mobile };
+        }
+        #endregion
+    }
+}

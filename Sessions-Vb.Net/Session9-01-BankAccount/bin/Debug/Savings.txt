@@ -1,0 +1,14 @@
+6/8/2012,Deposit,1000,True
+6/9/2012,Transfer to Checking,200,False
+2/10/2012,Transfer from Checking,1,True
+10-05-2024,Deposit,5000,True
+10-05-2024,Transfer from Checking,2000,True
+10-05-2024,Transfer from Checking,2000,True
+10-05-2024,Deposit,60000,True
+10-05-2024,Deposit,1000,True
+10-05-2024,Deposit,60000,True
+10-05-2024,Transfer to Checking,30000,False
+16-05-2024,Transfer from Checking,20000,True
+16-05-2024,Transfer to Checking,20000,False
+16-05-2024,Withdrawal,801,False
+16-05-2024,Deposit,10000,True

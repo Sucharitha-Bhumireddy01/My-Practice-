@@ -1,0 +1,9 @@
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\bin\Debug\SucharithaBank.Entities.dll
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\bin\Debug\SucharithaBank.Entities.pdb
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\bin\Debug\SucharithaBank.Exceptions.dll
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\bin\Debug\SucharithaBank.Exceptions.pdb
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\obj\Debug\SucharithaBank.Entities.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\obj\Debug\SucharithaBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\obj\Debug\SucharithaBank.Entities.csproj.CopyComplete
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\obj\Debug\SucharithaBank.Entities.dll
+C:\Users\sbhumireddy2\source\repos\SucharithaBank\SucharithaBank.Entities\obj\Debug\SucharithaBank.Entities.pdb

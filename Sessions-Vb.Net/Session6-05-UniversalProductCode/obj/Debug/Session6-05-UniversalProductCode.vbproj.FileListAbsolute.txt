@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\bin\Debug\Session6-05-UniversalProductCode.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\bin\Debug\Session6-05-UniversalProductCode.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\bin\Debug\Session6-05-UniversalProductCode.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\bin\Debug\Session6-05-UniversalProductCode.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6_05_UniversalProductCode.frmUPC.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6_05_UniversalProductCode.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\Sessions-Vb.Net\Session6-05-UniversalProductCode\obj\Debug\Session6-05-UniversalProductCode.pdb

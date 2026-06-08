@@ -1,0 +1,23 @@
+011200047153,Weaver Chicken Nuggets - 10.5 oz,332.26
+014100085218,Pepperidge Farm Goldfish - 7.2 oz,165.76
+016000666108,GM Cheerios - 15 oz,322.26
+021000611669,Velveeta Cheese Loaf Light - 32 oz,640.57
+021000643615,Kraft Ranch Dressing - 16 oz,249.06
+025500802732,Folgers Classic Roast Coffee - 39 oz,712.21
+027700090018,Mrs. Smith's Apple Pie - 37 oz,432.32
+028400010689,Doritos Cool Ranch Chips - 13.5 oz,282.38
+034500140003,Land O' Lakes Margarine - 16 oz,132.45
+036200013755,Ragu 6 cheese Spaghetti Sauce - 26 oz,182.42
+036632002518,Danon Vanilla Yogurt - 32 oz,249.06
+037000004301,Jif Peanut Butter - 22 oz,190.75
+039400015925,Bush's Homestyle Baked Beans - 16 oz,82.47
+041143028704,Sunmaid Raisins - 24 oz,324.03
+048121101091,Thomas' English Muffins - 4-pack ,199.08
+048500001028,Tropicana Pure Premium OJ - 64 oz,307.37
+051000012517,Campbell's Chicken Noodle Soup - 10.75 oz,74.14
+052000338324,Lemon-Lime Gatorade - 64 oz,265.72
+054800010073,Uncle Ben's Rice - 80 oz,515.62
+070734000034,Celestial Seasons Sleepytime Tea,215.74
+074570007004,Haagen Dazs Vanilla Ice Cream - 32 oz,515.62
+077975022375,Snyders Unsalted Pretzels - 9.25 oz,149.10
+099482403645,365 Soda Root Beer,45.81

@@ -1,0 +1,15 @@
+2/9/2012,Deposit,1000,True
+7/9/2012,Transfer from Savings,200,True
+15/9/2012,Check cashed by Electric Co.,75,False
+26/9/2012,Withdrawal,50,False
+5/9/2012,Deposit,37.5,True
+10-05-2024,Deposit,30000,True
+10-05-2024,Check cashed By Sucharitha,1112.5,False
+10-05-2024,Transfer from Savings,30000,True
+16-05-2024,Deposit,40000,True
+16-05-2024,Transfer to Savings,20000,False
+16-05-2024,Withdrawal,10000,False
+16-05-2024,Check cashed By Sucharitha,5000,False
+16-05-2024,Transfer from Savings,20000,True
+20-05-2024,Deposit,10000,True
+20-05-2024,Check cashed By Sucharitha,1000,False
