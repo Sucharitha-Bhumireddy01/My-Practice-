@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\files\bin\Debug\files.exe.config
+C:\Users\sbhumireddy2\source\repos\files\bin\Debug\files.exe
+C:\Users\sbhumireddy2\source\repos\files\bin\Debug\files.pdb
+C:\Users\sbhumireddy2\source\repos\files\obj\Debug\files.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\files\obj\Debug\files.exe
+C:\Users\sbhumireddy2\source\repos\files\obj\Debug\files.pdb
