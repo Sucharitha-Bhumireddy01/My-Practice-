@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\bin\Debug\usSenate.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\bin\Debug\usSenate.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\bin\Debug\usSenate.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\bin\Debug\usSenate.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.frmUSSenate.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\usSenate\obj\Debug\usSenate.pdb

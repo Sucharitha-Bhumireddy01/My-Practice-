@@ -1,0 +1,15 @@
+Jeff Flake,Arizona,R
+Chris Murphy,Connecticut,D
+Brian Schatz,Hawaii,D
+Mazie Hirona,Hawaii,D
+Joe Donnelly,Indiana,D
+Angus King,Maine,I
+William Cowan,Massachusetts,D
+Elizabeth Warren,Massachusetts,D
+Deb Fischer,Nebraska,R
+Martin Heinrich,New Mexico,D
+Heidi Heitkamp,North Dakota,D
+Tim Scott,South Carolina,R
+Ted Cruz,Texas,R
+Tim Kaine,Virginia,D
+Tammy Baldwin,Wisconsin,D

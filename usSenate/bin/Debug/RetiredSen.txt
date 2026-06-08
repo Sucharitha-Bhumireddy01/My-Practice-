@@ -1,0 +1,15 @@
+Jon Kyle,Arizona,R
+Joseph Lieberman,Connecticut,I
+Daniel Akaka,Hawaii,D
+Daniel Inouye,Hawaii,D
+Richard Lugar,Indiana,R
+Olympia Snow,Maine,R
+Scott Brown,Massachusetts,R
+John Kerry,Massachusetts,D
+Benjamin Nelson,Nebraska,D
+Jeff Bingaman,New Mexico,D
+Kent Conrad,North Dakota,D
+Jim DeMint,South Carolina,R
+Kay Hutchison,Texas,R
+Jim Webb,Virginia,D
+Herb Kohl,Wisconsin,D
