@@ -1,0 +1,11 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\bin\Debug\alphabeticOrder.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\bin\Debug\alphabeticOrder.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\bin\Debug\alphabeticOrder.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\bin\Debug\alphabeticOrder.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.frmAlphabeticalOrder.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\alphabeticOrder\obj\Debug\alphabeticOrder.pdb
