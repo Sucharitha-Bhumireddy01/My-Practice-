@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\bin\Debug\isbnValidator.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\bin\Debug\isbnValidator.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\bin\Debug\isbnValidator.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\bin\Debug\isbnValidator.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.frmISBNValidator.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\isbnValidator\obj\Debug\isbnValidator.pdb
