@@ -1,0 +1,10 @@
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\obj\Debug\Gamingcharecters.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\obj\Debug\Gamingcharecters.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\bin\Debug\Gamingcharecters.exe.config
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\bin\Debug\Gamingcharecters.exe
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\bin\Debug\Gamingcharecters.pdb
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\bin\Debug\ClassLibrary1.dll
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\bin\Debug\ClassLibrary1.pdb
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\obj\Debug\Gamingcharecters.csproj.CopyComplete
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\obj\Debug\Gamingcharecters.exe
+C:\Users\sbhumireddy2\source\repos\Gamingcharecters\Gamingcharecters\obj\Debug\Gamingcharecters.pdb
