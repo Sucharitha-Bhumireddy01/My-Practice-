@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\bin\Debug\unitPrice.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\bin\Debug\unitPrice.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\bin\Debug\unitPrice.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\bin\Debug\unitPrice.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.frmUnitPrice.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\unitPrice\obj\Debug\unitPrice.pdb
