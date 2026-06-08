@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\bin\Debug\nutrition.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\bin\Debug\nutrition.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\bin\Debug\nutrition.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\bin\Debug\nutrition.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.frmNutrition.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\nutrition\obj\Debug\nutrition.pdb
