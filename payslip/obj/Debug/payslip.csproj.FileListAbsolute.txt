@@ -1,0 +1,7 @@
+C:\Users\sbhumireddy2\source\repos\payslip\bin\Debug\payslip.exe.config
+C:\Users\sbhumireddy2\source\repos\payslip\bin\Debug\payslip.exe
+C:\Users\sbhumireddy2\source\repos\payslip\bin\Debug\payslip.pdb
+C:\Users\sbhumireddy2\source\repos\payslip\obj\Debug\payslip.csproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\payslip\obj\Debug\payslip.csproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\payslip\obj\Debug\payslip.exe
+C:\Users\sbhumireddy2\source\repos\payslip\obj\Debug\payslip.pdb
