@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "projectileMotion", "projectileMotion.vbproj", "{524D4E34-D4E1-4AA5-872E-ABF1F86120CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524D4E34-D4E1-4AA5-872E-ABF1F86120CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524D4E34-D4E1-4AA5-872E-ABF1F86120CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524D4E34-D4E1-4AA5-872E-ABF1F86120CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524D4E34-D4E1-4AA5-872E-ABF1F86120CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AEEBACB-7475-415E-A40A-6C6E0D1AA596}
+	EndGlobalSection
+EndGlobal

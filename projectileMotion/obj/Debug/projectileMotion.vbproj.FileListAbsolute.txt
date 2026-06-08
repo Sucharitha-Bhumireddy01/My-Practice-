@@ -1,0 +1,12 @@
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.vbproj.AssemblyReference.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.frmProjectileMotion.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.Resources.resources
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.vbproj.GenerateResource.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.vbproj.CoreCompileInputs.cache
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\bin\Debug\projectileMotion.exe.config
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\bin\Debug\projectileMotion.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\bin\Debug\projectileMotion.pdb
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\bin\Debug\projectileMotion.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.exe
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.xml
+C:\Users\sbhumireddy2\source\repos\VB.Net\projectileMotion\obj\Debug\projectileMotion.pdb
